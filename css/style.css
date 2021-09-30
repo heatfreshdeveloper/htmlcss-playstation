@@ -68,6 +68,14 @@ body {
     background-color: #d6613d;
 }
 
+/* Sezione carosel */
+
+.my_foto img {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
 /********** Utilities*/
 
 .button-radius {
