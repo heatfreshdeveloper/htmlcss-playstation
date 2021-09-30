@@ -7,6 +7,8 @@ body {
 
 /********** Selettori Classi*/
 
+/* Sezione navbar*/
+
 .my_navbar-1 {
     background-color: black;
 }
@@ -41,11 +43,39 @@ body {
     width: 55px;
 }
 
+/* Sezione Hero*/
+
+.my_hero {
+    background-image: url(../img/returnal-20211251321997_1.jpg);
+    background-size: cover;
+    background-position: 65% 65%;
+}
+
+.section-mainhero {
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.padding-general {
+    padding: 20px 0;
+}
+
+.image-returnal img {
+    width: 100%;
+}
+
+.my_hero .row button {
+    background-color: #d6613d;
+}
 
 /********** Utilities*/
 
 .button-radius {
     border-radius: 25px;
+}
+
+.section-base {
+    padding: 20px 0;
 }
 
 /********** Mediaquery*/
