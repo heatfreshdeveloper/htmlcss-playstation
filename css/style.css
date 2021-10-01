@@ -33,10 +33,10 @@ body {
     width: 100%;
 }
 
-.my_navbar-right li a img{
-    width: 100%;
-    padding: 5px 15px;
-    text-align: center;
+.my_navbar-2 a img.my_navpic {
+    width: 35px;
+    padding-top: 5px;
+    padding-left: 10px;
 }
 
 .my_navbar-right li:last-child {
@@ -48,7 +48,7 @@ body {
 .my_hero {
     background-image: url(../img/returnal-20211251321997_1.jpg);
     background-size: cover;
-    background-position: 65% 65%;
+    background-position: 45% 55%;
 }
 
 .section-mainhero {
@@ -76,6 +76,16 @@ body {
     border-radius: 15px;
 }
 
+/* Sezione PS5*/
+
+.section-medium div h6 {
+    color: #0072ce;
+}
+
+.section-large img {
+    width: 100%;
+}
+
 /********** Utilities*/
 
 .button-radius {
@@ -84,6 +94,14 @@ body {
 
 .section-base {
     padding: 20px 0;
+}
+
+.section-medium {
+    padding: 40px 0;
+}
+
+.section-large {
+    padding: 100px 0;
 }
 
 /********** Mediaquery*/
