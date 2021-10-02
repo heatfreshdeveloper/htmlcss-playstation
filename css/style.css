@@ -126,6 +126,25 @@ body {
     background-color: #2d64e6;
 }
 
+/* Sezione PlayStation Plus */
+
+.playstation-plus {
+    background-color: #bebcbb;
+}
+
+.playstation-plus-text {
+    margin: auto 0;
+}
+
+.playstation-plus-text img {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.playstation-plus-image img{
+    width: 100%;
+}
+
 /********** Utilities*/
 
 .button-radius {
