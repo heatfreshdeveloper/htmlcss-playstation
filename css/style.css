@@ -56,10 +56,6 @@ body {
     padding-bottom: 50px;
 }
 
-.padding-general {
-    padding: 20px 0;
-}
-
 .image-returnal img {
     width: 100%;
 }
@@ -88,9 +84,23 @@ body {
     align-items: flex-start;
 }
 
-/* Sezione Accessori PS5*/
+/* Sezione Accessori PS5 */
 
 
+/* Sezione It Takes Two*/
+
+.it-takes-two {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: 45% 55%;
+}
+
+.it-takes-two .row img {
+    width: 80%;
+}
+
+.it-takes-two .row button {
+    background-color: #d6613d;
+}
 
 /********** Utilities*/
 
@@ -108,6 +118,10 @@ body {
 
 .section-large {
     padding: 170px 0;
+}
+
+.padding-general {
+    padding: 20px 0;
 }
 
 /********** Mediaquery*/
