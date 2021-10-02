@@ -102,6 +102,30 @@ body {
     background-color: #d6613d;
 }
 
+/* Sezione Nuove Uscite*/
+
+.bg-dark {
+    background-color: #1f1f1f;
+}
+
+.nuove-uscite .card img {
+    width: 90%;
+}
+
+/* Sezione Esplora*/
+
+.esplora .row h6 {
+    color: #727272;
+}
+
+.esplora .row .card-transparent p {
+    color: #727272;
+}
+
+.esplora .row .card-transparent a {
+    background-color: #2d64e6;
+}
+
 /********** Utilities*/
 
 .button-radius {
