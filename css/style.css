@@ -145,6 +145,40 @@ body {
     width: 100%;
 }
 
+.playstation-plus-text button {
+    color: #2d64e6;
+}
+
+/* Sezione Nuovi Sconti */
+
+.nuovi-sconti .row h6 {
+    color: #727272;
+}
+
+.nuovi-sconti .row img {
+    width: 100%;
+}
+
+/* Sezione Playstation Now */
+
+.playstation-now {
+    background-color: #161c3b;
+}
+
+.playstation-now-text {
+    margin: auto 0;
+}
+
+.playstation-now-text img {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.playstation-now-image img{
+    width: 100%;
+}
+
+
 /********** Utilities*/
 
 .button-radius {
