@@ -178,6 +178,40 @@ body {
     width: 100%;
 }
 
+/* Sezione Social Network */
+
+.social-network img {
+    width: calc(100% / 6 * 1);
+}
+
+/* Footer */
+
+footer {
+    background-color: #1956a6;
+}
+
+.footer1 img {
+    width: 80%;
+}
+
+.footer1 .playstation-logo-footer {
+    width: 60%;
+    padding: 20px 0;
+}
+
+.footer1 i {
+    padding-right: 10px;
+    margin-bottom: 30px;
+}
+
+.footer2 ul li {
+    list-style: none;
+}
+
+.footer2 ul li a {
+    text-decoration: none;
+    color: white;
+}
 
 /********** Utilities*/
 
